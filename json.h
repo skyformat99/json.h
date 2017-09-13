@@ -161,7 +161,7 @@ enum json_type_e {
   json_type_array,
   json_type_true,
   json_type_false,
-  json_type_null
+  json_type_null,
 };
 
 // A JSON string value
